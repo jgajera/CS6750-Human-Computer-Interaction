@@ -25,7 +25,7 @@
     *   Wireframe
     *   Physical
     *   Live
-
+    *   ![screenshot](/images_Exam2/image6.png)
    
 *   **Fidelity**: refers to the completeness or maturity of the prototype.
     *   **Low fidelity**: something like paper or simple drawings, very easy to change
@@ -37,6 +37,7 @@
         *   Then as we go along, we can move toward the higher-fidelity prototypes that take more time to assemble because we have some initial evidence that our designs are sound.
         *   It’s really important here to also stress that our prototypes are prototypes. They aren’t complete interfaces.
         *   Don’t become a runaway train of designing: design deliberately and get feedback often
+    *   ![screenshot](/images_Exam2/image21.png)
 
   
 
@@ -44,6 +45,7 @@
     *   These different kinds of prototypes also lend themselves to different kinds of evaluation structures.
     *   **LF**: fine for evaluating the relative function of an interface, whether or not it can do what it’s designed to do. 
     *   **HF**: can be useful in evaluating the readability of the interface. To evaluate actual performance, like how long certain tasks take or what designs lead to more purchases, we generally need a high-fidelity prototype later in the cycle
+    *   ![screenshot](/images_Exam2/image4.png)
 
     
 
@@ -51,6 +53,7 @@
     *   **Vertical prototypes**: take a small portion of the interaction and prototype it in great detail.
     *   **Horizontal prototypes**: cover the design as a whole, but in a more shallow way.
     *   Usually start with the horizontal prototype earlier on and move toward the deeper vertical prototype later, but in reality you’ll likely move back and forth between these approaches throughout the timeline.
+    *   ![screenshot](/images_Exam2/image14.png)
 
     
 **[GOAL #3] Students will understand the basic methods of performing prototyping.**
@@ -84,6 +87,7 @@
     *   Wireframing is great for prototyping on-screen interfaces, but physical prototypes are if you’re working on something more physical and three-dimensional
     *   It doesn’t have to actually work; that’s where a lot of designers get tripped up: they think to get good feedback on a design, they have to have a working version, but you don’t. There are lots of elements you can test without actually implementing anything
 *   **Prototyping pros and cons**
+    *   ![screenshot](/images_Exam2/image8.png)
 
 
 *   **Design lifecycle**
@@ -96,6 +100,7 @@
     *   If our prototype was pretty successful, we might increase the fidelity, increase the detail, and evaluate again.
     *   If it wasn’t, we might stay low-fidelity with a different design altogether.
     *   Each time we develop a new prototype, we’re going through this cycle again
+    *   ![screenshot](/images_Exam2/image15.png)
 
 ---
 
@@ -122,6 +127,8 @@
         *   Operators: the operators the user can perform in the system.
         *   Methods: the methods for achieving goals in the system.
         *   Selection rules: the rules for choosing between competing methods.
+        *   ![screenshot](/images_Exam2/image13.png)
+
 *   The GOMS Model thus proposes that every human interacting with a system has a set of goals they want to accomplish.
     *   To accomplish those goals, they have methods, which are composed of series of operators.
     *   They also have rules for choosing between multiple methods that would each get them to the goal.
@@ -163,9 +170,7 @@
     *   For right now, though, we’re interested in what kind of information we’re trying to gather, not how we’re gathering it.
     *   Cognitive task analyses are especially concerned with understanding the underlying thought process in performing a task. Not just what we can see, but specifically what we can’t see.
     *   There are a lot of different methods for performing cognitive task analyses, but most methods follow a particular common sequence:
-
-            
-
+    *   ![screenshot](/images_Exam2/image1.png)
         *   1. **Collect preliminary knowledge**: while we as interface designers don’t need to become experts in a field, we need a good bit of familiarity with it. So, we might observe people performing the task.
         *   2. **Identify knowledge representations**: in other words, what kinds of things does the user need to know to complete their task? Note that we’re not yet concerned with the actual knowledge they have, only the types or structures of the knowledge they have.
             *   For example, we want to know: does this task involve a series of steps in a certain order? A collection of tasks to check off in any order? A web of knowledge to memorize?
@@ -188,13 +193,13 @@
         *   **Weakness**: Ill-suited for novices
             *   But perhaps most importantly, cognitive task analysis, like the GOMS model, is well-suited for expert users, but ill-suited for novices.
 *   **Hierarchical task analysis**
+    *   ![screenshot](/images_Exam2/image11.png)
     *   Cognitive task analysis advocates building models of human reasoning and decision-making in complex tasks. However, a challenge presented here is that very often, large tasks are actually composed of multiple smaller tasks.
     *   You generally will find tasks and subtasks whenever you’re looking at the results of cognitive task analyses.
     *   It’s important to remember the strengths supplied by this hierarchy: abstracting out unnecessary details, modularizing designs or principles, and organizing task analysis.
     *   When you’re creating real cognitive models, you’ll likely have several levels, several states, and additional annotating information.
 *   **Other task analysis frameworks: **GOMS and cognitive task analysis are just two of many alternatives to approaching trying to understand how users approach tasks.
-
-    
+    *   ![screenshot](/images_Exam2/image2.png)
     *   More in line with GOMS, options exist like KLM, MHP, and TLM, the keystroke-level model or touch-level model, which captures even finer-grained actions for estimating performance speed.
     *   Other extensions to GOMS add subgoals, like CPM-GOMS and NGOMSL.
     *   Cognitive Perceptual Motor-GOMS focuses on parallel tasks, while NGOMSL focuses on creating a natural language.
@@ -218,6 +223,7 @@
     *   The cockpit is a collection of controls, sensors, and interfaces, as well as the pilots themselves.
     *   This paper title tells us that it is this entire system: the pilots, the sensors, the controls, and the interfaces amongst them ⇒ that system as a whole is doing the remembering.
     *   No individual part in isolation remembers what the system as a whole remembers.
+    *   ![screenshot](/images_Exam2/image16.png)
 
 *   Distributed cognition is deeply related to the idea of cognitive load.
     *   Recall that cognitive load refers to your mind’s ability to only deal with a certain amount of information at a time.
@@ -264,7 +270,7 @@
     *   There’s a lot more depth here as well. The key takeaway for us is the _focus on the resources available to the user at any given time_, but I do recommend reading the book and this chapter for more insights.
 
 **[GOAL #4] Students will understand the pertinent takeaways of activity theory for HCI.**
-
+*   ![screenshot](/images_Exam2/image19.png)
 *   Activity theory is a massive and well-developed set of theories regarding the interactions between various pieces of an activity. It predates HCI, and in fact, activity theory is one of the first places the idea of interacting _through_ an interface came from.
 *   In conversations about HCI, though, there are three main contributions of **activity theory** I’d like you to come away with:
     *   First, when we discuss designing tasks and completing tasks through an interface, we risk missing a key component: why.
@@ -456,7 +462,7 @@
         *   4. **Script your analyses in advance**. Ronald Coase once said, “If you torture the data long enough,  nature will always confess.” What the quote means is that if we analyze and reanalyze data long enough, we can always find conclusions, but that doesn’t mean they’re actually there. So, decide in advance what analysis you’ll do, and do it -- if it doesn’t give you the results you want, don’t reanalyze it until it does.
         *   5. **Pay attention to power**. Power refers to the size of a difference that a test can detect, and generally it’s dependent on how many participants you have. If you want to detect a small effect, then you’ll need a lot of participants. If you only care about detecting a big effect, you can get by with fewer.
 *   **Empirical Tests (IV = Independent Variables, DV = Dependent Variables)**
-
+*   ![screenshot](/images_Exam2/image7.png)
 *   **Predictive evaluation: **evaluation based on systematic application of pre-established principles and heuristics
     *   Predictive evaluation is specifically evaluation without users.
     *   In user-centered design, this is obviously not our favorite kind of evaluation.
@@ -491,33 +497,24 @@
     *   **Purpose: Formative vs summative**
         *   Throughout most of the design process, our evaluations are **formative**, meaning their primary purpose is to help us redesign and improve our interface.
         *   At the end, though, we might want to do something more **summative** to conclude the design process, especially if we want to demonstrate that the new interface is better.
-
-
+        *   ![screenshot](/images_Exam2/image20.png)
     *   **Approach: Qualitative vs empirical vs predictive**
         *   Our early evaluations are likely to be more interpretive, qualitative, and informal. Their goal is to help us improve.
         *   Our later evaluations are likely to be more empirical, controlled, and formal. Their goal is to demonstrate or assess change.
-
-           
-
+        *   ![screenshot](/images_Exam2/image10.png)
     *   **Data: Qualitative vs quantitative**
         *   Our early data is likely to be more qualitative, while our later data is likely to be more quantitative.
-
-
+        *   ![screenshot](/images_Exam2/image12.png)
     *   **Setting: Lab testing vs field testing**
         *   Where the evaluation takes place: in the controlled lab environment or in the field.
         *   Generally, when we’re testing early interfaces, we probably want to do it in more of a lab setting, not live.
         *   Later on, we might do real live field testing.
         *   That lets us focus exclusively on the interface early on, then transition to focusing on the interface in context later.
-
-            
-
-
+        *   ![screenshot](/images_Exam2/image17.png)
     *   Of course, none of these are hard and fast rules: we’ll likely do some qualitative evaluation later sometimes, or some field testing early, but, in general, this is likely the order we’re likely to follow.
 *   **Steps to ensure your evaluation is useful**
     *   Regardless of whether we’re doing qualitative, empirical, or predictive evaluation, these steps remain the same. Those different types of evaluation just fill in the experiment we design, and inform the performance measures, data analysis, and conclusions.
-
-        
-
+    *   ![screenshot](/images_Exam2/image18.png)
     *   **1. Define the task you’re examining.**
         *   Depending on your place in the design process, this could be very large or very small.
         *   If we were designing Facebook, it could be as simple as posting a status update or as complicated as navigating amongst and using several pages.
@@ -546,13 +543,8 @@
         *   The results of this experiment then become a part of our design life cycle.
         *   We investigated users’ needs, developed alternatives, made a prototype, and put the prototype in front of users.
         *   Based on this experience, we now have the data to develop a better understanding of the users’ needs, to revisit our alternatives, and to improve our prototypes by raising their fidelity for further testing and incorporating the lessons we just learned.
-
-        
-
+        *   ![screenshot](/images_Exam2/image5.png)
 **[GOAL #3] Students will understand the type of data that comes out of each type of evaluation, and how it can be used.**
-
-
-
 *   **Reliability**: whether or not some assessment of some phenomenon is consistent (returns the same results for the same phenomenon).
     *   In an assessment measure, we want it to be reliable across multiple trials. Otherwise its conclusions are random and not very useful
     *   _If we were to conduct the same procedure again, how likely is it that we’d get the same results?_ That’s reliability.
@@ -576,22 +568,14 @@
     *   Regardless of what you want to evaluate, it’s important that you very clearly articulate at the beginning: what you’re evaluating, what data you’re gathering, and what analysis you will use. These three things should match up to address your research questions.
 
 **[GOAL #4] Students will understand each individual type of evaluation and what conclusions it can generate.**
-
-
-
 *   See the giant outline above
-
-
+*   ![screenshot](/images_Exam2/image22.png)
 
 ---
-
 
 **2.9 Interfaces and Politics**
 
 **[GOAL #1] Students will understand the role that society plays in shaping interface design, and the role interfaces play in shaping society.**
-
-
-
 *   In 1980, Langdon Winner published a highly influential essay in which he asked: Do Artifacts Have Politics? In other words, do technical devices have political qualities?
     *   When we say ‘politics’, we mean whether artifacts can personify specific forms of authority or power, whether for good or bad.
     *   What we’re referring to is the fact that artifacts or interfaces we design change the world around us just the way politicians or business interests do.
@@ -630,9 +614,6 @@
             *   Those interfaces serve no usability goals, but rather they serve the goal of user safety.
 
 **[GOAL #2] Students will understand the nature of intentional and unintentional repercussions of interface design.**
-
-
-
 *   **Negative change by design**
     *   The ability of interfaces to change behavior can be abused.
     *   We’re not just talking about places where people put explicit barriers up, like blocking people from accessing their content.
@@ -686,9 +667,6 @@
         *   Instead, it’s natural to install better connections where there is existing infrastructure to build on -- but that very natural plan has profoundly negative implications for equitable access to the internet.
 
 **[GOAL #3] Students will understand the value of value-sensitive design.**
-
-
-
 *   In HCI, we describe the idea of interfaces becoming invisible. Some of that is a usability principle, but it applies more broadly to the way that interfaces integrate themselves into our everyday lives. And if our interfaces are going to integrate into people’s lives, then they need to share the same values as those individuals as well. This connects to a field called Value-Sensitive Design.
 *   The Value-Sensitive Design Lab at the University of Washington defines **Value-Sensitive Design** by saying: “Value sensitive design seeks to provide theory and method to account for human values in a principled and systematic manner throughout the design process.”
     *   In this way, value-sensitive design is another dimension to consider when designing interfaces: not only is an interface useful in accomplishing a task and usable by the user, but is it consistent with their values?
@@ -867,6 +845,7 @@
             *   A thermostat, for example, doesn’t change its requirements very often. A site like Udacity, though, is constantly adjusting to new student interests or needs.
         *   These two components apply to the types of problems we’re working on.
         *   If we’re working on an interface that would lend itself to an Agile process, we also must set up the team to work well within an Agile process. That means small teams that are comfortable with a culture of change, as opposed to large teams comfortable with order. So, generally, **Agile processes can be good in some cases and with the right people, but poor in others**.
+    *   ![screenshot](/images_Exam2/image3.png)
 
 
 
@@ -885,6 +864,7 @@
             *   (1) **high user involvement**
             *   (2) **close team collaboration**.
         *   User-centered design’s emphasis on prototyping and the design life cycle showers up by proposing that designers run a sprint ahead of developers to perform the research necessary for user-centered design. To facilitate this, **strong project management** is necessary.
+    *   ![screenshot](/images_Exam2/image9.png)
 
        
 *   **A/B testing**
