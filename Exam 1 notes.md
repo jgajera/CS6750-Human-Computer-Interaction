@@ -81,13 +81,6 @@
     *   The CSCW community often breaks things down into two dimensions: time and place
     *   We can think of design as whether we’re designing for users in the same time and place or at different times and in different places
 
-        
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
 
     *   Think of CSCW as mediating cooperation across traditional geographical and temporal borders, but it can also help with colocated simultaneous cooperation
     *   **Examples**: museum asking visitors for their location (same place, different times) / Dr. Joyner recording a video and us watching it (diff place, diff time) / Slack (diff place, same time)
@@ -216,13 +209,6 @@
 *   We’ll likely use all these models at different times and in different contexts, and the data we gather from one will inform interface changes that might be tested in another
 *   The results of each design phase inform the next, and different phases call for different types of evaluation, which echo different models of the user.
 
-    
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-
 
 
 **[GOAL #5] Students will understand the existence of user experience at the group and societal level.**
@@ -313,15 +299,6 @@
 **Related to both gulfs:**
 
 
-    
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
-
-
-
 
 *   **Seven questions to ask when designing interfaces (by Norman):**
     *   **[Execution: the goal]** 1. How easily can one determine the function of the device? This relates to the user’s goal: how easily can the user determine that the interface is capable of accomplishing their goal?
@@ -394,16 +371,7 @@
 
 
 
-*   We need to know two things: what the design life cycle is, and how to integrate the user into each phase
-
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
-
-
+*   We need to know two things: what the design life cycle is, and how to integrate the user into each phas
 
 
     *   [**Phase #1: Needfinding**]
@@ -681,13 +649,6 @@
     *   **Advantages of each needfinding method**:
 
 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
-
-
 **[GOAL #3] Students will understand the types of data gathered during needfinding exercises.**
 
 
@@ -744,13 +705,6 @@
 *   The feeling of directness is inversely proportional to the amount of cognitive effort it takes to manipulate and evaluate a system
 
     
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
-
-
     *   In other words, the more cognitive load required to use the system, the less direct the interaction feels.
     *   The authors break distance into two components: semantic distance and articulatory distance.
         *   **Semantic distance** refers to the difference between the user’s goals and their expression in the system. In other words, it’s how hard it is to know what to do.
@@ -1011,16 +965,6 @@
         *   Personas are personal and meant to give us an empathetic view of the user experience.
         *   User models are more objective and meant to give us a measurable and comparable view of the user experience.
 
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image7.png "image_tooltip")
-
-
-
-
 ---
 
 
@@ -1117,13 +1061,6 @@
             *   One goal of usable design is to avoid the need for documentation altogether.
             *   We want users to just interact naturally with our interfaces.
             *   However, Nielsen advocates last that we supply comprehensive documentation anyway, just in case.
-
-
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image8.png "image_tooltip")
 
 
 **[GOAL #2] Students will understand the four sets of design principles that gave rise to the 15 principles covered here.**

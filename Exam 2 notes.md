@@ -1,10 +1,3 @@
-**If you need it, here are my Exam #1 notes also: [https://docs.google.com/document/d/1vl2iT-0d_RvRfBtOHeXt62BNlm32ov-tOb2N9MSxkqo/edit?usp=sharing](https://docs.google.com/document/d/1vl2iT-0d_RvRfBtOHeXt62BNlm32ov-tOb2N9MSxkqo/edit?usp=sharing)**
-
-
-
----
-
-
 # **EXAM #2 NOTES**
 
 
@@ -33,14 +26,7 @@
     *   Physical
     *   Live
 
-    
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
+   
 *   **Fidelity**: refers to the completeness or maturity of the prototype.
     *   **Low fidelity**: something like paper or simple drawings, very easy to change
     *   **High fidelity**: wireframe or a working interface, something harder to put together
@@ -52,13 +38,7 @@
         *   It’s really important here to also stress that our prototypes are prototypes. They aren’t complete interfaces.
         *   Don’t become a runaway train of designing: design deliberately and get feedback often
 
-    
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-
+  
 
 *   **Evaluation**
     *   These different kinds of prototypes also lend themselves to different kinds of evaluation structures.
@@ -67,26 +47,12 @@
 
     
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
-
-
 *   **Scope**
     *   **Vertical prototypes**: take a small portion of the interaction and prototype it in great detail.
     *   **Horizontal prototypes**: cover the design as a whole, but in a more shallow way.
     *   Usually start with the horizontal prototype earlier on and move toward the deeper vertical prototype later, but in reality you’ll likely move back and forth between these approaches throughout the timeline.
 
     
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
-
-
-
 **[GOAL #3] Students will understand the basic methods of performing prototyping.**
 
 
@@ -119,13 +85,6 @@
     *   It doesn’t have to actually work; that’s where a lot of designers get tripped up: they think to get good feedback on a design, they have to have a working version, but you don’t. There are lots of elements you can test without actually implementing anything
 *   **Prototyping pros and cons**
 
-    
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
-
 
 *   **Design lifecycle**
     *   We did some initial needfinding, brainstormed some alternatives, and prototyped those alternatives on paper.
@@ -137,16 +96,6 @@
     *   If our prototype was pretty successful, we might increase the fidelity, increase the detail, and evaluate again.
     *   If it wasn’t, we might stay low-fidelity with a different design altogether.
     *   Each time we develop a new prototype, we’re going through this cycle again
-
-
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
-
-
-
 
 ---
 
@@ -217,12 +166,6 @@
 
             
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image7.png "image_tooltip")
-
-
         *   1. **Collect preliminary knowledge**: while we as interface designers don’t need to become experts in a field, we need a good bit of familiarity with it. So, we might observe people performing the task.
         *   2. **Identify knowledge representations**: in other words, what kinds of things does the user need to know to complete their task? Note that we’re not yet concerned with the actual knowledge they have, only the types or structures of the knowledge they have.
             *   For example, we want to know: does this task involve a series of steps in a certain order? A collection of tasks to check off in any order? A web of knowledge to memorize?
@@ -252,13 +195,6 @@
 *   **Other task analysis frameworks: **GOMS and cognitive task analysis are just two of many alternatives to approaching trying to understand how users approach tasks.
 
     
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image8.png "image_tooltip")
-
-
     *   More in line with GOMS, options exist like KLM, MHP, and TLM, the keystroke-level model or touch-level model, which captures even finer-grained actions for estimating performance speed.
     *   Other extensions to GOMS add subgoals, like CPM-GOMS and NGOMSL.
     *   Cognitive Perceptual Motor-GOMS focuses on parallel tasks, while NGOMSL focuses on creating a natural language.
@@ -282,11 +218,6 @@
     *   The cockpit is a collection of controls, sensors, and interfaces, as well as the pilots themselves.
     *   This paper title tells us that it is this entire system: the pilots, the sensors, the controls, and the interfaces amongst them ⇒ that system as a whole is doing the remembering.
     *   No individual part in isolation remembers what the system as a whole remembers.
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image9.png "image_tooltip")
 
 *   Distributed cognition is deeply related to the idea of cognitive load.
     *   Recall that cognitive load refers to your mind’s ability to only deal with a certain amount of information at a time.
@@ -333,15 +264,6 @@
     *   There’s a lot more depth here as well. The key takeaway for us is the _focus on the resources available to the user at any given time_, but I do recommend reading the book and this chapter for more insights.
 
 **[GOAL #4] Students will understand the pertinent takeaways of activity theory for HCI.**
-
-
-
-*   
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image10.png "image_tooltip")
 
 *   Activity theory is a massive and well-developed set of theories regarding the interactions between various pieces of an activity. It predates HCI, and in fact, activity theory is one of the first places the idea of interacting _through_ an interface came from.
 *   In conversations about HCI, though, there are three main contributions of **activity theory** I’d like you to come away with:
@@ -535,16 +457,6 @@
         *   5. **Pay attention to power**. Power refers to the size of a difference that a test can detect, and generally it’s dependent on how many participants you have. If you want to detect a small effect, then you’ll need a lot of participants. If you only care about detecting a big effect, you can get by with fewer.
 *   **Empirical Tests (IV = Independent Variables, DV = Dependent Variables)**
 
-
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image11.png "image_tooltip")
-
-
-
-
 *   **Predictive evaluation: **evaluation based on systematic application of pre-established principles and heuristics
     *   Predictive evaluation is specifically evaluation without users.
     *   In user-centered design, this is obviously not our favorite kind of evaluation.
@@ -580,35 +492,15 @@
         *   Throughout most of the design process, our evaluations are **formative**, meaning their primary purpose is to help us redesign and improve our interface.
         *   At the end, though, we might want to do something more **summative** to conclude the design process, especially if we want to demonstrate that the new interface is better.
 
-            
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image12.png "image_tooltip")
-
 
     *   **Approach: Qualitative vs empirical vs predictive**
         *   Our early evaluations are likely to be more interpretive, qualitative, and informal. Their goal is to help us improve.
         *   Our later evaluations are likely to be more empirical, controlled, and formal. Their goal is to demonstrate or assess change.
 
-            
-
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image13.png "image_tooltip")
-
+           
 
     *   **Data: Qualitative vs quantitative**
         *   Our early data is likely to be more qualitative, while our later data is likely to be more quantitative.
-
-            
-
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image14.png "image_tooltip")
 
 
     *   **Setting: Lab testing vs field testing**
@@ -619,23 +511,12 @@
 
             
 
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image15.png "image_tooltip")
-
 
     *   Of course, none of these are hard and fast rules: we’ll likely do some qualitative evaluation later sometimes, or some field testing early, but, in general, this is likely the order we’re likely to follow.
 *   **Steps to ensure your evaluation is useful**
     *   Regardless of whether we’re doing qualitative, empirical, or predictive evaluation, these steps remain the same. Those different types of evaluation just fill in the experiment we design, and inform the performance measures, data analysis, and conclusions.
 
         
-
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image16.png "image_tooltip")
-
 
     *   **1. Define the task you’re examining.**
         *   Depending on your place in the design process, this could be very large or very small.
@@ -668,22 +549,6 @@
 
         
 
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image17.png "image_tooltip")
-
-
-
-        
-
-<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image18.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image18.png "image_tooltip")
-
-
-
 **[GOAL #3] Students will understand the type of data that comes out of each type of evaluation, and how it can be used.**
 
 
@@ -715,14 +580,6 @@
 
 
 *   See the giant outline above
-
-
-
-<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image19.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image19.png "image_tooltip")
-
 
 
 
@@ -1013,14 +870,6 @@
 
 
 
-<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image20.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image20.png "image_tooltip")
-
-
-
-
 *   **Paper Spotlight**: “Towards a Framework for Integrating Agile Development and User-Centred Design” by Stephanie Chamberlain, Helen Sharp, and Neil Maiden
     *   In 2006, Chamberlain, Sharp, and Maiden investigated the conflicts and opportunities of applying agile development to user-centered design. They found, interestingly, that the two actually had significant overlap.
         *   Both agile development and user-centered design **emphasize iterative development building on feedback** from the previous rounds.
@@ -1037,14 +886,7 @@
             *   (2) **close team collaboration**.
         *   User-centered design’s emphasis on prototyping and the design life cycle showers up by proposing that designers run a sprint ahead of developers to perform the research necessary for user-centered design. To facilitate this, **strong project management** is necessary.
 
-        
-
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image21.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image21.png "image_tooltip")
-
-
+       
 *   **A/B testing**
     *   So in some contexts, it’s now no harder to construct an actual interface than it is to construct a prototype. So, we might skip the prototyping phase altogether. However, prototypes also allow us to gather feedback from users. Even though we can now easily construct an interface, we don’t want to immediately roll out a completely untested interface to lots of people. We might be able to fix it quickly, but we’re still eroding user trust in us and wasting our users’ time.
     *   That’s where the second facet of this comes in: A/B testing - **rapid software testing between typically two alternatives**.
